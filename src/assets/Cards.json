@@ -1,0 +1,59 @@
+{ "myCards" : [
+    {
+        "id": 1,
+        "myCardsHolder" : "",
+        "vendor" : "",
+        "myCardsNumber" : "",
+        "expYear" : "yy",
+        "expMonth" : "mm",
+        "bgcolor": "",
+        "icon": ""
+    
+        
+    },
+    {
+        "id": 2,
+        "myCardsHolder" : "Niclas Andersson",
+        "vendor" : "Ninja Bank",
+        "myCardsNumber" : "4523786934345456",
+        "expYear" : "21",
+        "expMonth" : "06",
+        "color":"white",
+        "bgcolor": "black",
+        "icon": "vendor-ninja.svg"
+    },
+    {
+        "id": 3,
+        "myCardsHolder" : "Sara Larson",
+        "vendor" : "Evil Corp",
+        "myCardsNumber" : "3432443454123678",
+        "expYear" : "21",
+        "expMonth" : "11",
+        "color":"white",
+        "bgcolor": "Crimson",
+        "icon": "vendor-evil.svg"
+    },
+    {
+        "id": 4,
+        "myCardsHolder" : "philip Karlberg",
+        "vendor" : "Blockchain Inc",
+        "myCardsNumber" : "1326889856540987",
+        "expYear" : "22",
+        "expMonth" : "01",
+        "color":"white",
+        "bgcolor": "BlueViolet",
+        "icon": "vendor-blockchain.svg"
+    },
+    {
+        "id": 5,
+        "myCardsHolder" : "ache Karlberg",
+        "vendor" : "Blockchain Inc",
+        "myCardsNumber" : "1326889856540987",
+        "expYear" : "22",
+        "expMonth" : "01",
+        "color":"white",
+        "bgcolor": "BlueViolet",
+        "icon": "vendor-blockchain.svg"
+    }
+   
+]}

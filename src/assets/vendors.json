@@ -1,0 +1,40 @@
+{ "vendors" : [
+    {
+        "name" : "Bitcoin Inc",
+        "id" : "bitcoin",
+        "img": "vendor-bitcoin.svg",
+        "color":"black",
+        "bgcolor": "orange"
+        
+        
+    },
+    {
+        "name" : "Evil Corp",
+        "id" : "Evil",
+        "img": "vendor-evil.svg",
+        "color":"white",
+        "bgcolor": "Crimson"
+        
+        
+        
+    },
+    {
+        "name" : "Ninja Bank",
+        "id" : "ninja",
+        "img": "vendor-ninja.svg",
+        "color":"white",
+        "bgcolor": "black"
+        
+        
+        
+    },
+    {
+        "name" : "Blockchain Inc",
+        "id" : "blockchain",
+        "img": "vendor-blockchain.svg",
+        "color":"white",
+        "bgcolor": "BlueViolet"
+      
+        
+    }
+]}
